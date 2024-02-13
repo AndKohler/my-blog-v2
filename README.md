@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project using [`Tailwind CSS`](https://tailwindcss.com/).
+This is a [Next.js](https://nextjs.org/) project using [Tailwind CSS](https://tailwindcss.com/).
 
 ## Getting Started
 
